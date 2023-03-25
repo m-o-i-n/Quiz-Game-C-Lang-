@@ -1,0 +1,68 @@
+
+Q: Who is known as the founder of C Language?
+Option A:Dennis Ritchie
+Option B:James Gosling
+Option C:Martin Richard
+Option D:Linus Torvalds
+A
+Q: Which of the following is a correct comment?
+Option A:**comment**
+Option B:{ comment }
+Option C:/*comment*/
+Option D:*/comment*/
+C
+Q: What is the correct value to return to the operatin
+Option A:-1
+Option B:1
+Option C:0
+Option D:program do not return a value.
+C
+Q: which of the following is not a correct variable type?
+Option A:float
+Option B:real
+Option C:int
+Option D:double
+B
+Q: C language is
+Option A:High level Language
+Option B:Middle level language
+Option C:low level language
+Option D:non of these
+B
+Q: which of the following is true about C?
+Option A:platform independent
+Option B:machine independent
+Option C:high level language
+Option D:non of these
+B
+Q: in a C program, the first statement that will execute.
+Option A:the first executable statement of the program.
+Option B:the first executable statement of the main() functthe first executable statement after the comment.
+Option C:the first executable statement after the comment.
+Option D:the first executable statement of the end functionB
+B
+Q: How would you insert pre written code into a current program?
+Option A:#read
+Option B:#get
+Option C:#pre
+Option D:#include
+D
+Q: what punctuation is used to signal the beginning.
+Option A:{}
+Option B:->and<-
+Option C:BEGIN and end
+Option D:( and )
+A
+Q: which of the following special symbol allowed in c.
+Option A: *(asterisk)
+Option B: | (pipeline)
+Option C: - (hyphen)
+Option D: _ (underscore)
+D
+
+Q: chutiya kon hai?
+Option A:arun
+Option B:aniz
+Option C:virender
+Option D:suny
+B
